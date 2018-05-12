@@ -1,0 +1,28 @@
+_repo: Shaun-O-Day-of-Ireland_41015
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41015-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brandeis, Madeline
+    birthdate: 1897
+    deathdate: 1937
+    gutenberg_agent_id: '38210'
+    url: http://www.gutenberg.org/2009/agents/38210
+description: The adventures of Shaun O'Day and his son John O'Day with the fairies
+  of Ireland. Contains actual photographs of Ireland and the Irish.
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Juvenile fiction'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcc 'PZ'
+title: Shaun O'Day of Ireland
+url: http://www.gutenberg.org/ebooks/41015
