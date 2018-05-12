@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38210
 description: The adventures of Shaun O'Day and his son John O'Day with the fairies
   of Ireland. Contains actual photographs of Ireland and the Irish.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41015#Shaun-O-Day-of-Ireland
 gutenberg_issued: '2012-10-10'
 gutenberg_type: Text
 identifiers:
